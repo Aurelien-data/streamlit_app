@@ -3,8 +3,8 @@ from streamlit_authenticator import Authenticate
 
 
 # création de l'instance d'authentification
-lesDonneesDesComptes = {'usernames': {'utilisateur': {'name': 'utilisateur',
-   'password': 'utilisateurMDP',
+lesDonneesDesComptes = {'usernames': {'utilisateur': {'name': 'brucewayne',
+   'password': 'batman',
    'email': 'utilisateur@gmail.com',
    'failed_login_attemps': 0, # Sera géré automatiquement
    'logged_in': False, # Sera géré automatiquement
